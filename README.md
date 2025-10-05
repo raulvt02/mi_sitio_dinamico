@@ -1,5 +1,7 @@
 # mi_sitio_dinamico
 El proyecto mi_sitio_dinamico es un ejemplo sencillo y bien estructurado de cómo crear una página web modular con PHP utilizando buenas prácticas de programación y Bootstrap para el diseño.
+
+
 /mi_sitio_dinamico/
 ├── index.php               → Punto de entrada del sitio (control principal)
 ├── layout.php              → Plantilla maestra con el <html> y </html>
